@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="icon.png" />
+    <title>Get TubeVault - Premium Video Downloader</title>
+    <style>
+        :root {
+            --bg: #0d0d0d;
+            --primary: #ff0033;
+            --text: #ffffff;
+            --card: rgba(255, 255, 255, 0.05);
+        }
+        body {
+            font-family: 'Inter', system-ui, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            text-align: center;
+        }
+        .container {
+            max-width: 600px;
+            padding: 40px;
+            background: radial-gradient(circle at top left, rgba(255, 0, 51, 0.1), transparent), var(--card);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 24px;
+            backdrop-filter: blur(20px);
+        }
+        h1 { font-size: 42px; margin-bottom: 10px; font-weight: 800; letter-spacing: -2px; }
+        p { color: #a1a1aa; line-height: 1.6; margin-bottom: 30px; }
+        .btn {
+            display: inline-block;
+            padding: 16px 32px;
+            background: var(--primary);
+            color: white;
+            text-decoration: none;
+            border-radius: 14px;
+            font-weight: 700;
+            font-size: 18px;
+            transition: all 0.3s ease;
+            box-shadow: 0 10px 30px rgba(255, 0, 51, 0.4);
+        }
+        .btn:hover { transform: translateY(-3px); box-shadow: 0 15px 40px rgba(255, 0, 51, 0.5); }
+        .steps {
+            text-align: left;
+            margin-top: 40px;
+            background: rgba(0,0,0,0.3);
+            padding: 24px;
+            border-radius: 16px;
+        }
+        .steps h3 { margin-top: 0; font-size: 14px; text-transform: uppercase; color: #71717a; letter-spacing: 2px; }
+        ol { padding-left: 20px; color: #d4d4d8; }
+        li { margin-bottom: 10px; font-size: 14px; }
+        .badge { background: #27272a; padding: 2px 6px; border-radius: 4px; font-size: 12px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div style="display: flex; flex-direction: column; align-items: center; gap: 16px; margin-bottom: 24px;">
+            <img src="icon.png" alt="TubeVault Logo" style="width: 80px; height: 80px; border-radius: 20px; box-shadow: 0 10px 30px rgba(255, 0, 51, 0.4);">
+            <h1 style="margin: 0;">TubeVault 🎬</h1>
+        </div>
+        <p>Premium 4K YouTube & Audio Downloader Extension.<br>Fast, Private, and High-Quality.</p>
+        
+        <a href="TubeVault_Extension.zip" class="btn" download>Download Extension Bundle</a>
+
+        <div class="steps">
+            <h3>How to Install (One-Time Setup)</h3>
+            <ol>
+                <li>Download and <b>Extract</b> the ZIP folder.</li>
+                <li>Run <b>Setup_TubeVault.bat</b> — this starts the engine and prepares Chrome.</li>
+                <li>In Chrome, ensure <b>Developer mode</b> is ON.</li>
+                <li>Drag the highlighted <b>'extension'</b> folder into Chrome.</li>
+                <li>Once the Welcome Page turns green, you're all set!</li>
+            </ol>
+            <p style="font-size: 12px; margin-top: 16px; color: #71717a;">✅ <b>Note:</b> You only need to run the setup once. TubeVault will start automatically after that!</p>
+        </div>
+        <footer style="margin-top: 40px; font-size: 12px; color: #71717a;">
+            TubeVault &copy; 2026 • Premium Content Storage
+        </footer>
+    </div>
+</body>
+</html>
