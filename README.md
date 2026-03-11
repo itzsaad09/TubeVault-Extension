@@ -21,7 +21,7 @@ Designed for creators and collectors who value quality and aesthetics.
 Follow these simple steps to add **TubeVault** to your browser:
 
 1.  **Download**: Get the latest extension bundle from the official site:
-    [**📥 Download TubeVault_Extension.zip**](https://itzsaad09.github.io/TubeVault-Extension/)
+    <a href="https://itzsaad09.github.io/TubeVault-Extension/" target="_blank"><b>📥 Download TubeVault_Extension.zip</b></a>
 2.  **Extract**: Extract the ZIP folder to your computer.
 3.  **Run the Engine**: Double-click **`Setup_TubeVault.bat`**.
     - _This will start the backend engine and automatically prepare your browser._
