@@ -20,12 +20,14 @@ Designed for creators and collectors who value quality and aesthetics.
 
 Follow these simple steps to add **TubeVault** to your browser:
 
-1.  **Download & Extract**: Get the extension bundle and extract the ZIP folder to your computer.
-2.  **Run the Engine**: Double-click **`Setup_TubeVault.bat`**.
+1.  **Download**: Get the latest extension bundle from the official site:
+    [**📥 Download TubeVault_Extension.zip**](https://itzsaad09.github.io/TubeVault-Extension/)
+2.  **Extract**: Extract the ZIP folder to your computer.
+3.  **Run the Engine**: Double-click **`Setup_TubeVault.bat`**.
     - _This will start the backend engine and automatically prepare your browser._
-3.  **Enable Developer Mode**: In the Chrome page that just opened, turn on **Developer mode** toggle (top right corner).
-4.  **Add to Chrome**: Drag the highlighted **`extension`** folder directly into the Chrome window.
-5.  **Enjoy!**: A "Welcome Page" will confirm you are connected. Pin **TubeVault** to your toolbar and start downloading!
+4.  **Enable Developer Mode**: In the Chrome page that just opened, turn on **Developer mode** toggle (top right corner).
+5.  **Add to Chrome**: Drag the highlighted **`extension`** folder directly into the Chrome window.
+6.  **Enjoy!**: A "Welcome Page" will confirm you are connected. Pin **TubeVault** to your toolbar and start downloading!
 
 > [!NOTE]
 > **One-Time Setup**: Once configured, the TubeVault engine will start automatically every time you log in to your computer!
