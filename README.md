@@ -30,6 +30,9 @@ Follow these simple steps to add **TubeVault** to your browser:
 > [!NOTE]
 > **One-Time Setup**: Once configured, the TubeVault engine will start automatically every time you log in to your computer!
 
+> [!TIP]
+> **Uninstallation**: To remove TubeVault, simply run `Uninstall_TubeVault.bat` and remove the extension from Chrome.
+
 ---
 
 ## ⚖️ Disclaimer
